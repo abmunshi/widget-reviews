@@ -43,6 +43,12 @@
   width: 70px;
   height: 70px;
   border-radius: 5px;
+  font-size: 12px;
+  background-color: #dddddd4d;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 .review-gallery {
   display: flex;
