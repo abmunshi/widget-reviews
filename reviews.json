@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "userAvatar": "https://i.pravatar.cc/150?img=1",
+    "username": "Eugene Chan",
+    "purchaseDate": "15/10/2024",
+    "comment": "Everything good",
+    "rating": 5,
+    "liked": 0,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": [
+      "https://picsum.photos/id/101/300/200",
+      "https://picsum.photos/id/102/300/200",
+      "https://picsum.photos/id/103/300/200",
+      "https://picsum.photos/id/104/300/200",
+      "https://picsum.photos/300/200"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Adrian Lee",
+    "purchaseDate": "03/09/2024",
+    "comment": "Smooth transaction with Laurent. I got a Richard Mille, and it’s legit. The only downside was the limited payment option, I’d have preferred another method.",
+    "rating": 4,
+    "liked": 2,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": [
+      "https://picsum.photos/id/106/300/200",
+      "https://picsum.photos/id/107/300/200"
+    ]
+  },
+  {
+    "id": 3,
+    "username": "Benjamin G.",
+    "purchaseDate": "17/05/2024",
+    "comment": "Got my dream Patek Philippe through Laurent. The boutique verification reassured me. Couldn’t have asked for a better experience!",
+    "rating": 5,
+    "liked": 0,
+    "shared": 10,
+    "shareLinks": "https://www.facebook.com",
+    "images": []
+  },
+  {
+    "id": 4,
+    "username": "Shawn",
+    "purchaseDate": "21/03/2024",
+    "comment": "Laurent is trustworthy and professional. Bought a Rolex Daytona, and it was authenticated at the boutique. I waited for 3 weeks for the meeting but considering the price, it was worth the wait. Thank you!",
+    "rating": 5,
+    "liked": 0,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": ["https://picsum.photos/id/108/300/200"]
+  },
+  {
+    "id": 5,
+    "userAvatar": "https://i.pravatar.cc/150?img=5",
+    "username": "Darren Tan",
+    "purchaseDate": "15/03/2024",
+    "comment": "My 1st Nautilus, thanks Laurent.",
+    "rating": 5,
+    "liked": 1,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": []
+  },
+  {
+    "id": 6,
+    "userAvatar": "https://i.pravatar.cc/150?img=6",
+    "username": "Nicholas Ng",
+    "purchaseDate": "16/01/2024",
+    "comment": "Got a Patek Philippe from Laurent. He’s professional, reliable, and ensures everything is verified. I felt comfortable throughout the entire process.",
+    "rating": 5,
+    "liked": 15,
+    "shared": 4,
+    "shareLinks": "https://www.facebook.com",
+    "images": [
+      "https://picsum.photos/id/109/300/200",
+      "https://picsum.photos/id/110/300/200",
+      "https://picsum.photos/id/111/300/200"
+    ]
+  },
+  {
+    "id": 7,
+    "userAvatar": "https://i.pravatar.cc/150?img=1",
+    "username": "Jason",
+    "purchaseDate": "13/11/2023",
+    "comment": "Laurent is my go-to for Patek. This is my second purchase, and both times have been seamless. Authenticity guaranteed. Perfect",
+    "rating": 5,
+    "liked": 3,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": []
+  },
+  {
+    "id": 8,
+    "userAvatar": "https://i.pravatar.cc/150?img=2",
+    "username": "Samuel W.",
+    "purchaseDate": "11/09/2023",
+    "comment": "If you’re buying watches in SG, Laurent is the guy. Professional, efficient, and everything was verified at the boutique. My Richard Mille is stunning. Thanks, Laurent!",
+    "rating": 5,
+    "liked": 0,
+    "shared": 2,
+    "shareLinks": "https://www.facebook.com",
+    "images": ["https://picsum.photos/id/112/300/200"]
+  },
+  {
+    "id": 9,
+    "userAvatar": "https://i.pravatar.cc/150?img=3",
+    "username": "Nicholas Ng",
+    "purchaseDate": "04/09/2023",
+    "comment": "Great service from Laurent. Met at Patek boutique and everything checked out. I just wish the process of arranging a meeting was faster.",
+    "rating": 4,
+    "liked": 0,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": []
+  },
+  {
+    "id": 10,
+    "userAvatar": "https://i.pravatar.cc/150?img=4",
+    "username": "Marcus Chua",
+    "purchaseDate": "14/06/2023",
+    "comment": "Laurent is reliable, and the Rolex I bought was authenticated as promised. Communication was not the best and it took longer than expected to finalize the transaction. Great overall, but not perfect.",
+    "rating": 3,
+    "liked": 2,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": []
+  },
+  {
+    "id": 11,
+    "userAvatar": "https://i.pravatar.cc/150?img=5",
+    "username": "Hao Wei",
+    "purchaseDate": "14/12/2022",
+    "comment": "Perfect, highly recommend. Average product, decent value for money. Average product, decent value for money. Average product, decent value for money.Average product, decent value for money.Average product, decent value for money.Average product, decent value for money.Average product, decent value for money.Average product, decent value for money.",
+    "rating": 5,
+    "liked": 0,
+    "shared": 0,
+    "shareLinks": "https://www.facebook.com",
+    "images": []
+  }
+]
